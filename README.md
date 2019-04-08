@@ -1,5 +1,7 @@
 # phil-quiz-map
 
+The Quora answer that started it all: https://www.quora.com/Where-do-you-place-yourself-on-this-map-of-philosophical-positions/answer/Jeremy-Hadfield
+
 ## Overview 
 
 I'll send you more details of what I'm planning on, but for now I'm just thinking of it as two major components: 
