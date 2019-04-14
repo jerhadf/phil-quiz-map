@@ -1,7 +1,10 @@
 import React, { Component } from 'react'
 import { withRouter } from 'react-router'
 import { Switch, Route } from 'react-router-dom'
+import Home from './Home'
+import About from './About'
 import Quiz from './Quiz'
+import TwoD from './TwoD'
 
 class ScrollToTop extends Component {
   componentDidUpdate(prevProps) {
@@ -26,8 +29,10 @@ const Main = () => (
   <main>
     <Scroll>
       <Switch>
-        <Route exact path='/' component={Quiz}/>
+        <Route exact path='/' component={Home}/>
+        <Route exact path='/About' component={About}/>
         <Route exact path='/Quiz' component={Quiz}/>
+        <Route exact path='/Map' component={TwoD}/>
       </Switch>
     </Scroll>
   </main>

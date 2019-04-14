@@ -1,5 +1,6 @@
 {
   "name": "phil-quiz-map",
+  "homepage": "https://philosophy.surge.sh/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,6 +35,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vintners/phil-quiz-map/issues"
-  },
-  "homepage": "https://github.com/vintners/phil-quiz-map#readme"
+  }
 }

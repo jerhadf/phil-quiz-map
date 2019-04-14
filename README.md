@@ -4,6 +4,7 @@ The Quora answer that started it all: https://www.quora.com/Where-do-you-place-y
 
 ## Overview
 
+Check out its temporary deployment site at philosophy.surge.sh
 I'll send you more details of what I'm planning on, but for now I'm just thinking of it as two major components:
 1. **A data-based quiz on philosophical positions** to find someone's "philosophical personality" or beliefs, and then outputs their results, and shows them their similarity to major philosophers (e.g. the same way a political position quiz might output "Your political beliefs are closest to Ghandi" our quiz will output something like "Your philosophy is the most similar to Plato/Nietzsche/Aristotle/Lao Tzu/etc", and then give recommendations and resources for the person to further explore their philosophical beliefs. E.g. a reading list or helpful links.
 
